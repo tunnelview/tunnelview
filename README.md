@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tunnelview otherwise known as Shibin
+- 👋 Hi, I’m @tunnelview aka Shibin
 - 👀 I’m interested in projects 
 - 🌱 I’m currently doing Full Stack Development
 - 💞️ I’m happy to collaborate on Android (Java) and Full Stack(MERN) Projects.
